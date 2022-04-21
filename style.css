@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("http://static.ybox.vn/2021/12/2/1640075281718-245966668_2252377831571078_7506076634605346232_n.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #cccccc;
+    height: 550px;
+    color: white;
+}
+p{
+font-size: 17px;
+color: #fbab00;
+font-weight: 600;
+font-style: italic;
+
+}
+input{
+    opacity: 90%;
+}
+label{
+    color: #fbab00;
+    font-weight: 600;
+}
+h2{
+    color: #f11600a1
+}
+.md-form{
+    opacity: 90%;
+}
